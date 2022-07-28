@@ -1,0 +1,33 @@
+.landing{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../images/nbg.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.title{
+    font-size: 40px;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.landing-content{
+    width: 100%;
+    text-align: center;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+
+.guest-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    margin-left: -0.5rem;
+}

@@ -1,0 +1,11 @@
+.accordion-header{
+    display: flex;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.048);
+    margin: 0.5rem 0rem;
+}
+
+.accordion-date{
+    margin-top: 0.5rem;
+    color: rgba(0, 0, 0, 0.534);
+}
